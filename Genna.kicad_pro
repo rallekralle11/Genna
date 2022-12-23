@@ -120,7 +120,7 @@
       },
       "track_widths": [
         0.0,
-        0.15,
+        0.135,
         0.2
       ],
       "via_dimensions": [
@@ -129,12 +129,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.46,
           "drill": 0.2
         },
         {
-          "diameter": 0.8,
-          "drill": 0.3
+          "diameter": 0.6,
+          "drill": 0.2
         }
       ],
       "zones_allow_external_fillets": false,
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USBduino.kicad_pro",
+    "filename": "Genna.kicad_pro",
     "version": 1
   },
   "net_settings": {
