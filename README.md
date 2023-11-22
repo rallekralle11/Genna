@@ -1,6 +1,6 @@
 # Genna
 
-For anyone following this idea, well it won't work as is. it needs a crystal apparently. I'll redesign it when i feel like it.
+Work in progress. I believe i can get it working but i won't deal with that right now.
 
 ![board1](gennaF.png)
 
